@@ -1,5 +1,5 @@
 # 💫 About Me:
-✔ I'm currently studying to get a degree in information systems.<br>✔ I'm looking to collaborate with others developers on team working 🌟<br>✔ I'm currently learning FrontEnd web development.<br>✔ Python, C++ and C# trainee for BackEnd 💻<br>
+✔ I'm currently studying to get a degree in information systems.<br>✔ I'm looking to collaborate with others developers on team working 🌟<br>✔ I'm currently learning FrontEnd web development.<br>✔ Python and JS trainee for BackEnd 💻<br>
 
 
 ## 🌐 Socials:
