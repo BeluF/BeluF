@@ -1,4 +1,3 @@
-# Belén Fornari 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Consolas&color=FFAAEF&size=25&center=true&vCenter=true&width=600&height=100&lines=Full-Stack+dev;Degree+in+Information+Systems+student;Love+to+learn+new+stuffs+<3"></a>
 </p>
