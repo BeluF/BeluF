@@ -33,7 +33,8 @@
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![Xampp](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)
-  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+    ![Tailwind](https://img.shields.io/badge/tailwindcss-%2300C4CC.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
+  ![Canva](https://img.shields.io/badge/canva-%2370C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
   ![Font Awesome](https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white)
 
 </p>
