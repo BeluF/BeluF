@@ -43,7 +43,12 @@
 
  
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BeluF&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeluF&layout=compact&theme=tokyonight"/>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BeluF&theme=tokyo-night&hide_border=true&height=200" width="850" />
+</p>
+
 
 
 ## <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
