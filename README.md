@@ -49,7 +49,7 @@
 ## <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/belen-fornari/" target="blank"><img align="center" src="https://img.shields.io/badge/Check more about me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp; <a href="mailto:ma.belen.fornari@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/belen-fornari/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp; <a href="mailto:ma.belen.fornari@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;
 
 </p>
 
